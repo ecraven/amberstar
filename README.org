@@ -1,0 +1,5 @@
+* Amberstar
+** Map Dumps
+Under =map-dumps/= you find a dump of each map.
+- =lyramion.png= is a montage of the outdoor map.
+- All other files are the actual map (2D as-is and 3D as minimap). Red =X=s mark start locations for NPCs. The numbers are the event indices.
